@@ -7,4 +7,5 @@ func main() {
 	fmt.Println("Hii")
 	fmt.Print("Version 4")
 	fmt.Print("Version 5")
+	fmt.Print("Version 6")
 }
